@@ -1,6 +1,6 @@
 {
   "name": "barbarbar338-functions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A project where I combine the functions I use frequently in my projects.",
   "scripts": {
     "test": "mocha -r ts-node/register tests/*.test.ts",
@@ -10,9 +10,8 @@
   },
   "main": "dist/src/index",
   "types": "dist/src/index.d.ts",
-  "prepublish": "tsc",
   "repository": {
-	  "url": "https://github.com/barbarbar338/barbarbar338-functions"
+    "url": "https://github.com/barbarbar338/barbarbar338-functions"
   },
   "keywords": [
     "barbarbar338",
