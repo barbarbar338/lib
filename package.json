@@ -11,6 +11,9 @@
   "main": "dist/src/index",
   "types": "dist/src/index.d.ts",
   "prepublish": "tsc",
+  "repository": {
+	  "url": "https://github.com/barbarbar338/barbarbar338-functions"
+  },
   "keywords": [
     "barbarbar338",
     "function",
