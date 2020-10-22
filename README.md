@@ -1,3 +1,2 @@
-# ✨ barbarbar338 Functions
-- A project where I combine the functions I use frequently in my projects. 👀
-- Everything explained in Turkish in files 🦄
+🧹# ✨ barbarbar338 lib
+- A sneaky little project where I put together codes that I thought were useful.
