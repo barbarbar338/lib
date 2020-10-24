@@ -1,12 +1,12 @@
 [
     {
         "name": "Project Tag First", 
-        "img": "assets/img/projects/img-1.jpg",
+        "img": "assets/img/projects/img-1.png",
         "tag": "first"
     },
     {
         "name": "Project Tag Second", 
-        "img": "assets/img/projects/img-2.jpg",
+        "img": "assets/img/projects/img-2.png",
         "tag": "second"
     }
 ]
