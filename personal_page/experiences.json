@@ -1,0 +1,36 @@
+{
+    "experiences": [
+        {
+            "title": "Experience 1",
+            "where": "2020 - 2020 | Company, Inc.",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        },
+        {
+            "title": "Experience 2",
+            "where": "2020 - 2020 | Company, Inc.",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        },
+        {
+            "title": "Experience 3",
+            "where": "2020 - 2020 | Company, Inc.",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        }
+    ],
+    "timelines": [
+        {
+            "title": "Timeline 1",
+            "where": "2020 - 2020 | Company, Inc.",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        },
+        {
+            "title": "Timeline 2",
+            "where": "2020 - 2020 | Company, Inc.",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        },
+        {
+            "title": "Timeline 3",
+            "where": "2020 - 2020 | Company, Inc.",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        }
+    ]
+}
