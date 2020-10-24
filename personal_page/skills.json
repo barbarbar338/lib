@@ -1,0 +1,22 @@
+[
+    {
+        "percentage": 25,
+        "skill": "Skill 1"
+    },
+    {
+        "percentage": 100,
+        "skill": "Skill 2"
+    },
+    {
+        "percentage": 60,
+        "skill": "Skill 3"
+    },
+    {
+        "percentage": 50,
+        "skill": "Skill 4"
+    },
+    {
+        "percentage": 75,
+        "skill": "Skill 5"
+    }
+]

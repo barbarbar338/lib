@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://github.com/barbarbar338",
+        "route": "/github"
+    },
+    {
+        "url": "https://twitter.com/ben_baris_d",
+        "route": "/twitter"
+    },
+    {
+        "url": "https://www.instagram.com/ben_baris.d",
+        "route": "/instagram"
+    },
+    {
+        "url": "https://youtube.com/ProjectHammer",
+        "route": "/youtube"
+    },
+    {
+        "url": "https://discordapp.com/users/331846231514939392",
+        "route": "/discord"
+    }
+]
