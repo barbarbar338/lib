@@ -16,7 +16,7 @@ If we look at my old personal page, it was there just so you know that there is 
 
 ## What's New?
 ---
-Well, I made lot's of new things. *I won't show the transition effects, let the fun part be up to you.*
+Well, I made lots of new things. *I won't show the transition effects, let the fun part be up to you.*
 
 ## Landing Page
 ---
@@ -91,4 +91,4 @@ And finally, you will see this page when redirecting to anoter site
 
 ![RedirectingPage](https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/blog/personal-page-rewrite/redirecting.png)
 
-And that all! I hope you enjoyed it.
+And that's all! I hope you enjoyed it.
