@@ -1,0 +1,12 @@
+[
+    {
+        "date": 1603611575034,
+        "banner": "assets/img/blog/img-1.jpg",
+        "author": "Barış DEMİRCİ",
+        "blogURL": "/blogitem1",
+        "itemURL": "/test.md",
+        "category": "Web Development",
+        "title": "Post Title",
+        "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+    }
+]
