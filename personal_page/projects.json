@@ -1,12 +1,14 @@
 [
     {
-        "name": "Project Tag First", 
-        "img": "assets/img/projects/img-1.png",
-        "tag": "first"
+        "name": "Reaction Role", 
+        "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/reaction-role.png",
+        "url": "https://github.com/barbarbar338/reaction-role",
+        "tags": [ "npm", "js" ]
     },
     {
-        "name": "Project Tag Second", 
-        "img": "assets/img/projects/img-2.png",
-        "tag": "second"
+        "name": "Canvas Based Pie Chart", 
+        "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/canvas-pie-chart.png",
+        "url": "https://github.com/barbarbar338/canvas-pie-chart",
+        "tags": [ "npm", "ts" ]
     }
 ]
