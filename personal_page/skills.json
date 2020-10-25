@@ -1,22 +1,42 @@
 [
     {
-        "percentage": 25,
-        "skill": "Skill 1"
-    },
-    {
         "percentage": 100,
-        "skill": "Skill 2"
+        "skill": "HTML"
     },
     {
-        "percentage": 60,
-        "skill": "Skill 3"
+        "percentage": 40,
+        "skill": "CSS"
+    },
+    {
+        "percentage": 90,
+        "skill": "JavaScript"
+    },
+    {
+        "percentage": 90,
+        "skill": "NodeJS"
+    },
+    {
+        "percentage": 70,
+        "skill": "TypeScript"
+    },
+    {
+        "percentage": 65,
+        "skill": "NestJS"
     },
     {
         "percentage": 50,
-        "skill": "Skill 4"
+        "skill": "React"
     },
     {
-        "percentage": 75,
-        "skill": "Skill 5"
+        "percentage": 55,
+        "skill": "C++"
+    },
+    {
+        "percentage": 80,
+        "skill": "GameMaker Language"
+    },
+    {
+        "percentage": 55,
+        "skill": "Python"
     }
 ]

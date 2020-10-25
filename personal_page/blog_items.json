@@ -1,12 +1,12 @@
 [
     {
-        "date": 1603611575034,
-        "banner": "assets/img/blog/img-1.jpg",
+        "date": 1603639351069,
+        "banner": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/blog/personal-page-rewrite/banner.png",
         "author": "Barış DEMİRCİ",
-        "blogURL": "/blogitem1",
-        "itemURL": "/test.md",
-        "category": "Web Development",
-        "title": "Post Title",
-        "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        "blogURL": "/personal-page-rewrite",
+        "itemURL": "/personal-page-rewrite.md",
+        "category": "Site Update",
+        "title": "Personal Page ReWrite",
+        "shortDescription": "I made my personal page more beautiful and open source"
     }
 ]

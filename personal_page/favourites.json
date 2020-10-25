@@ -1,22 +1,22 @@
 [
     {
-        "name": "Favourite Item 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        "name": "NodeJS",
+        "description": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine."
     },
     {
-        "name": "Favourite Item 2",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        "name": "ReactJS",
+        "description": "A JavaScript library for building user interfaces."
     },
     {
-        "name": "Favourite Item 3",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        "name": "NextJS",
+        "description": "Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed."
     },
     {
-        "name": "Favourite Item 4",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        "name": "NestJS",
+        "description": "A progressive Node.js framework for building efficient, reliable and scalable server-side applications."
     },
     {
-        "name": "Favourite Item 5",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac erat aliquam, gravida nulla in, eleifend nisi."
+        "name": "TypeScript",
+        "description": "Typed JavaScript at Any Scale."
     }
 ]
