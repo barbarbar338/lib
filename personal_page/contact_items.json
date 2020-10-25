@@ -1,0 +1,36 @@
+[
+    {
+        "iconType": "Solids",
+        "icon": "faPaperPlane",
+        "content": "demirci.baris38@gmail.com",
+        "name": "E-Mail"
+    },
+    {
+        "iconType": "Brands",
+        "icon": "faGithub",
+        "content": "@barbarbar338",
+        "name": "Github",
+        "path": "/github"
+    },
+    {
+        "iconType": "Brands",
+        "icon": "faInstagram",
+        "content": "@ben_baris.d",
+        "name": "Instagram",
+        "path": "/instagram"
+    },
+    {
+        "iconType": "Brands",
+        "icon": "faYoutube",
+        "content": "Barış DEMİRCİ",
+        "name": "YouTube",
+        "path": "/youtube"
+    },
+    {
+        "iconType": "Brands",
+        "icon": "faDiscord",
+        "content": "barbarbar338#0338",
+        "name": "Discord",
+        "path": "/discord"
+    }
+]
