@@ -1,0 +1,37 @@
+[
+    {
+        "title": "First Line Of Code",
+        "when": "2010",
+        "paragraph": "An interesting story. My friends used to play video games together all the time and I didn't have a computer powerful enough to play games so I started making my own games. I was spending time and having fun creating little games."
+    },
+    {
+        "title": "Web Development",
+        "when": "2011",
+        "paragraph": "It was getting boring to constantly create games, so I searched for other things and asked myself \"Why am I not building a webpage for me?\" That decision I made that day made me here today. I started creating small HTML files and hosting them under ridiculous domains, so I developed myself on the front-end. I started selling websites to my neighbors and some acquaintances in my neighborhood."
+    },
+    {
+        "title": "Become Freelancer",
+        "when": "2013",
+        "paragraph": "The people in my neighborhood loved my projects and they told me to take this business further and I started to develop this talent as a business resource. I started selling simple projects and simple game engines on the Internet. But at that time I'm not making any archives. I wish I archived my projects ..."
+    },
+    {
+        "title": "Back-End Interest",
+        "when": "2016",
+        "paragraph": "On this journey, I met many new customers and new friends. I was learning a new technology every time I met a new person. As a result, I wanted to take a look at the most mentioned technology, \"NodeJS\". The reason I progressed on this technology is that I learned a lot about javascript in the front-end part and it has a very similar structure with the language of the game development program (GameMaker: Studio) I use. I started to set up small modules, simple express servers etc. with NodeJS."
+    },
+    {
+        "title": "React Interest",
+        "when": "2017",
+        "paragraph": "Now I had more information about NodeJS. While building websites, I used Express and Handlebars, but it was very difficult to progress with these two technologies. Simple sites could be made with these technologies, but large projects could not be done. As a result, I tried the 3 bigs, Angular, Vue, and React. The structure of Angular and Vue was not for me. I didn't know much about TypeScript and Babel. Also, as a result of my forum research, I realized that React is more famous, simpler and has more resources and I started doing small projects with react."
+    },
+    {
+        "title": "Discord Bots",
+        "when": "2018",
+        "paragraph": "Now I know a lot about NodeJS so I decided to give myself some time. I started playing games and watching videos. And I discovered Discord via Discord servers of my favorite YouTube channels. We were chatting, playing games with my friends and annoying the bots. Then I realized that Discord has a public API service, of course, I have a lot of knowledge of NodeJS. I said let me try. I had quite a lot of followers and reputations. People have a love for Discord Bot for no reason. Of course I made good money with this."
+    },
+    {
+        "title": "TypeScript Interest",
+        "when": "2020",
+        "paragraph": "Now is the time to start big projects. I realized that for a stricter validation process and more advanced JavaScript technologies I needed to learn TypeScript. I am currently producing open source projects and trying to improve myself more."
+    }
+]
