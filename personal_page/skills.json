@@ -1,5 +1,13 @@
 [
     {
+        "percentage": 85,
+        "skill": "Back-End"
+    },
+    {
+        "percentage": 55,
+        "skill": "Front-End"
+    },
+    {
         "percentage": 100,
         "skill": "HTML"
     },
