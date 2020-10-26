@@ -2,55 +2,55 @@
     {
         "name": "Reaction Role", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/reaction-role.png",
-        "url": "https://github.com/barbarbar338/reaction-role",
+        "url": "/reaction-role",
         "tags": [ "npm", "js" ]
     },
     {
         "name": "Canvas Based Pie Chart", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/canvas-pie-chart.png",
-        "url": "https://github.com/barbarbar338/canvas-pie-chart",
+        "url": "/canvas-pie-chart",
         "tags": [ "npm", "ts" ]
     },
     {
         "name": "Personal Page", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/personal-page.png",
-        "url": "https://github.com/barbarbar338/webpage",
+        "url": "/webpage",
         "tags": [ "react", "front-end", "js" ]
     },
     {
         "name": "Password Manager Extension", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/password-manager-extension.png",
-        "url": "https://github.com/barbarbar338/password-manager-extension",
+        "url": "/password-manager-extension",
         "tags": [ "nest", "back-end", "ts" ]
     },
     {
         "name": "Brawlhalla Open API", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/bh-open-api.png",
-        "url": "https://github.com/barbarbar338/bh-open-api",
+        "url": "/bh-open-api",
         "tags": [ "nest", "back-end", "ts" ]
     },
     {
         "name": "Locale Parser", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/locale-parser.png",
-        "url": "https://github.com/barbarbar338/locale-parser",
+        "url": "/locale-parser",
         "tags": [ "npm", "ts" ]
     },
     {
         "name": "Pinkie Rest API", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/pinkie-api.png",
-        "url": "https://github.com/barbarbar338/pinkie-api",
+        "url": "/pinkie-api",
         "tags": [ "nest", "back-end", "front-end", "ts" ]
     },
     {
         "name": "Personal Webpage Template", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/personal-webpage-template.png",
-        "url": "https://github.com/barbarbar338/personal-webpage-template",
+        "url": "/personal-webpage-template",
         "tags": [ "front-end", "js" ]
     },
     {
         "name": "Minecraft Achievement Creator", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/mc-achievements.png",
-        "url": "https://github.com/barbarbar338/mc-achievements",
+        "url": "/mc-achievements",
         "tags": [ "npm", "ts" ]
     }
 ]

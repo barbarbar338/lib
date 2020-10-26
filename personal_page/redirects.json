@@ -18,5 +18,41 @@
     {
         "url": "https://discordapp.com/users/331846231514939392",
         "route": "/discord"
+    },
+    {
+        "url": "https://github.com/barbarbar338/reaction-role",
+        "route": "/reaction-role"
+    },
+    {
+        "url": "https://github.com/barbarbar338/canvas-pie-chart",
+        "route": "/canvas-pie-chart"
+    },
+    {
+        "url": "https://github.com/barbarbar338/webpage",
+        "route": "/webpage"
+    },
+    {
+        "url": "https://github.com/barbarbar338/password-manager-extension",
+        "route": "/password-manager-extension"
+    },
+    {
+        "url": "https://github.com/barbarbar338/bh-open-api",
+        "route": "/bh-open-api"
+    },
+    {
+        "url": "https://github.com/barbarbar338/locale-parser",
+        "route": "/locale-parser"
+    },
+    {
+        "url": "https://github.com/barbarbar338/pinkie-api",
+        "route": "/pinkie-api"
+    },
+    {
+        "url": "https://github.com/barbarbar338/personal-webpage-template",
+        "route": "/personal-webpage-template"
+    },
+    {
+        "url": "https://github.com/barbarbar338/mc-achievements",
+        "route": "/mc-achievements"
     }
 ]
