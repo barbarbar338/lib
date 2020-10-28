@@ -58,5 +58,11 @@
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/overlay-creator.png",
         "url": "/overlay-creator",
         "tags": [ "react", "front-end", "js"  ]
+    },
+    {
+        "name": "Achievement Generator", 
+        "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/achievement-generator.png",
+        "url": "/achievement-generator",
+        "tags": [ "react", "front-end", "js"  ]
     }
 ]
