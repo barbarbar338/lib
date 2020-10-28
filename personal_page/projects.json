@@ -52,5 +52,11 @@
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/mc-achievements.png",
         "url": "/mc-achievements",
         "tags": [ "npm", "ts" ]
+    },
+    {
+        "name": "Overlay Creator", 
+        "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/overlay-creator.png",
+        "url": "/overlay-creator",
+        "tags": [ "react", "front-end", "js"  ]
     }
 ]
