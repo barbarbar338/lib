@@ -27,7 +27,7 @@
         "name": "Brawlhalla Open API", 
         "img": "https://raw.githubusercontent.com/barbarbar338/lib/master/personal_page/images/projects/bh-open-api.png",
         "url": "/bh-open-api",
-        "tags": [ "nest", "back-end", "ts" ]
+        "tags": [ "react", "nest", "front-end", "back-end", "js", "ts" ]
     },
     {
         "name": "Locale Parser", 
