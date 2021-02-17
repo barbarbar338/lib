@@ -1,5 +1,4 @@
 function average(...numbers: number[]): number {
-    let total = 0;
-    for (const n of numbers) total += +n;
+    const total = numbers.reduce((a, i) => a + i, 0);
     return total / numbers.length;
 }
